@@ -1,5 +1,9 @@
 <?php
 
+phpinfo();
+var_dump("Pedraaaao");
+exit;
+
 use Illuminate\Http\Request;
 
 define('LARAVEL_START', microtime(true));
